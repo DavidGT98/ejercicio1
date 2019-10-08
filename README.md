@@ -1,2 +1,2 @@
 # ejercicio1
-david
+david garcia trujillo
