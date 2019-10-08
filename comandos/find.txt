@@ -1,0 +1,12 @@
+Busca una cadena de texto en uno o más archivos.
+
+FIND [/V] [/C] [/N] [/I] [/OFF[LINE]] "cadena" [[unidad:][ruta]archivo[ ...]]
+
+  /V          Muestra todas las líneas que no tengan la cadena especificada.
+  /C          Muestra solo el número de líneas que contienen la cadena.
+  /N          Muestra el número de línea de cada línea.
+  /I          Omite mayúsculas/minúsculas al buscar una cadena.
+  /OFF[LINE]  No omite archivos con el atributo "sin conexión" establecido.
+  "cadena"    Especifica el texto que se desea buscar.
+  [unidad:][ruta]archivo
+              Especifica el o los archivos a buscar.
